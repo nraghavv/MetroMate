@@ -1,7 +1,7 @@
 """
 screens.py - All four screens of MetroMate.
 Owner: Member 1 (UI)  -  PlannerScreen, StationsScreen
-       Member 2 (Data) -  SavedScreen, FareScreen
+       Member 3 (Screens & Testing) -  SavedScreen, FareScreen
 """
 import tkinter as tk
 from tkinter import ttk, messagebox, simpledialog

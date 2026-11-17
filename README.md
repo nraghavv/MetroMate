@@ -35,14 +35,15 @@ Only Python 3 is needed (Tkinter and SQLite come with it). No pip installs.
 | main.py | Main window, sidebar, switching screens | N. Raghav |
 | theme.py | Colours, fonts, styles | N. Raghav |
 | map_view.py | Interactive metro map on a Canvas | N. Raghav |
-| screens.py | Plan a Trip, Stations (Raghav); Saved & History, Fares (Adwiti) | Both |
+| screens.py | Plan a Trip, Stations (Raghav); Saved & History, Fares (Anirveda) | Raghav, Anirveda |
 | metro_data.py | Stations, distances, fares, timings, landmarks | Adwiti Sharma |
 | router.py | Dijkstra's shortest path, fares, directions | Adwiti Sharma |
 | database.py | SQLite favourites, history, settings | Adwiti Sharma |
-| test_router.py | 11 unit tests | Adwiti Sharma |
+| test_router.py | 11 unit tests | Anirveda Mandal |
 
 ## Team
 - **N. Raghav** - UI, interactive map and navigation
-- **Adwiti Sharma** - station data, routing, database and tests
+- **Adwiti Sharma** - station data, routing and database
+- **Anirveda Mandal** - Saved & History and Fares screens, testing
 
 *Distances between stations are approximate, so times and fares are estimates.*

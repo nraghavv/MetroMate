@@ -1,7 +1,7 @@
 """
 test_router.py - Automated tests for routing, fares and the database.
 Run:  python -m unittest test_router -v
-Owner: Member 2 (Data & Logic)
+Owner: Member 3 (Screens & Testing)
 """
 import unittest
 
